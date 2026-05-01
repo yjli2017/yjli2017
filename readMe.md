@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Bioinformatics Scientist at **Children's Hospital of Philadelphia (CHOP)**, specializing in long-read RNA-seq, RNA splicing, and clinical genomics for rare genetic disease diagnosis. My research integrates long-read sequencing, short-read RNA-seq, and single-cell data to characterize isoform-resolved transcriptomes and investigate splicing mechanisms underlying rare neurodevelopmental and genetic disorders.
+I am a Bioinformatics Scientist, specializing in long-read RNA-seq, RNA splicing, and clinical genomics for rare genetic disease diagnosis. My research integrates long-read sequencing, short-read RNA-seq, and single-cell data to characterize isoform-resolved transcriptomes and investigate splicing mechanisms underlying rare neurodevelopmental and genetic disorders. Opinions expressed are solely my own.
 
 ---
 
