@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yongjun%20Li&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Bioinformatics%20Scientist%20%40%20CHOP&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yongjun%20Li&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Bioinformatics%20Scientist&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9FAF&center=true&vCenter=true&width=600&lines=Long-read+Transcriptomics+%F0%9F%A7%AC;RNA+Splicing+%26+Isoform+Discovery+%F0%9F%94%AC;Rare+Disease+Genomics+%F0%9F%8F%A5;Precision+Medicine+%F0%9F%92%8A" alt="Typing SVG" /></a>
@@ -17,13 +17,12 @@
 ```python
 class YongjunLi:
     role        = "Bioinformatics Scientist"
-    affiliation = "Children's Hospital of Philadelphia (CHOP)"
     training    = ["Ph.D., University of Pennsylvania", "A.M., Statistics"]
     focus       = ["long-read RNA-seq", "RNA splicing", "clinical genomics"]
     mission     = "Use isoform-resolved transcriptomes to diagnose rare genetic disease"
 ```
 
-I combine **long-read sequencing**, **short-read RNA-seq**, and **single-cell** data to build isoform-resolved transcriptomes and to study the splicing mechanisms behind rare neurodevelopmental and genetic disorders.
+I combine **long-read sequencing**, **short-read RNA-seq**, and **single-cell** data to build isoform-resolved transcriptomes and to study the splicing mechanisms behind rare neurodevelopmental and genetic disorders. Opinions expressed are solely my own.
 
 ---
 
