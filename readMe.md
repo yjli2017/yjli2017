@@ -1,69 +1,95 @@
-<h1 align="center">Hi there 👋, I'm Yongjun Li</h1>
-<h3 align="center">Bioinformatics Scientist | Long-read Transcriptomics | RNA Splicing | Precision Medicine</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yongjun%20Li&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Bioinformatics%20Scientist%20%40%20CHOP&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <a href="mailto:yongjunli2017@gmail.com"><img src="https://img.shields.io/badge/Email-yongjunli2017%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/yjli2017"><img src="https://img.shields.io/github/followers/yjli2017?label=Follow&style=flat-square&logo=github"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9FAF&center=true&vCenter=true&width=600&lines=Long-read+Transcriptomics+%F0%9F%A7%AC;RNA+Splicing+%26+Isoform+Discovery+%F0%9F%94%AC;Rare+Disease+Genomics+%F0%9F%8F%A5;Precision+Medicine+%F0%9F%92%8A" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:yongjunli2017@gmail.com"><img src="https://img.shields.io/badge/Email-yongjunli2017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/yjli2017"><img src="https://img.shields.io/github/followers/yjli2017?label=Follow&style=for-the-badge&logo=github&color=181717"></a>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Li+Yongjun%5BAuthor%5D+AND+Philadelphia%5BAffiliation%5D&sort=date"><img src="https://img.shields.io/badge/PubMed-Publications-326599?style=for-the-badge&logo=pubmed&logoColor=white"></a>
 </p>
 
 ---
 
-## About Me
+## 🧑‍🔬 About Me
 
-I am a Bioinformatics Scientist at **Children's Hospital of Philadelphia (CHOP)**, specializing in long-read RNA-seq, RNA splicing, and clinical genomics for rare genetic disease diagnosis. My research integrates long-read sequencing, short-read RNA-seq, and single-cell data to characterize isoform-resolved transcriptomes and investigate splicing mechanisms underlying rare neurodevelopmental and genetic disorders.
+```python
+class YongjunLi:
+    role        = "Bioinformatics Scientist"
+    affiliation = "Children's Hospital of Philadelphia (CHOP)"
+    training    = ["Ph.D., University of Pennsylvania", "A.M., Statistics"]
+    focus       = ["long-read RNA-seq", "RNA splicing", "clinical genomics"]
+    mission     = "Use isoform-resolved transcriptomes to diagnose rare genetic disease"
+```
 
----
-
-## Research Interests
-
-- RNA splicing & isoform-resolved transcriptomics
-- Long-read sequencing (Oxford Nanopore) for clinical diagnostics
-- Rare genetic disease genomics & variant interpretation
-- Multi-omic data integration (long-read + short-read + single-cell)
-- Sleep biology, circadian rhythms & neuroscience
-
----
-
-## Tech Stack
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Sequencing & Analysis**
-
-![Long-read RNA-seq](https://img.shields.io/badge/Long--read%20RNA--seq-ONT-orange?style=flat-square)
-![scRNA-seq](https://img.shields.io/badge/Single--cell%20RNA--seq-informational?style=flat-square)
-![Splicing Analysis](https://img.shields.io/badge/Splicing%20Analysis-blueviolet?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Pipelines & Tools**
-
-![Snakemake](https://img.shields.io/badge/Snakemake-4B8BBE?style=flat-square)
-![SLURM](https://img.shields.io/badge/HPC%2FSLURM-darkgreen?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+I combine **long-read sequencing**, **short-read RNA-seq**, and **single-cell** data to build isoform-resolved transcriptomes and to study the splicing mechanisms behind rare neurodevelopmental and genetic disorders.
 
 ---
 
-## Selected Publications
+## 🔭 Research Interests
 
-- **Li, Y.** et al. (2024). Modulation of RNA processing genes during sleep-dependent memory. *eLife*, 12, RP89023.
-- **Li, Y.** et al. (2023). Ecdysone acts through cortex glia to regulate sleep in Drosophila. *eLife*, 12, e81723.
-- Haynes et al. (2024). A neuron–glia lipid metabolic cycle couples daily sleep to mitochondrial homeostasis. *Nature Neuroscience*, 27(4), 666–678.
-- Cuddapah et al. (2025). Sleep drive, not total sleep amount, increases seizure risk. *Nature Communications*, 16, 6967.
-- Zhang et al. (2023). The microbiome stabilizes circadian rhythms in the gut. *PNAS*, 120(5), e2217532120.
-- Avila et al. (2025). A carnitine transporter at the blood–brain barrier modulates sleep via glial lipid metabolism. *PNAS*, 122(4), e2421178122.
+<table>
+  <tr>
+    <td>🧬 <b>RNA splicing</b> & isoform-resolved transcriptomics</td>
+    <td>📏 <b>Long-read sequencing</b> (Oxford Nanopore) for clinical diagnostics</td>
+  </tr>
+  <tr>
+    <td>🏥 <b>Rare genetic disease</b> genomics & variant interpretation</td>
+    <td>🔗 <b>Multi-omic integration</b> (long-read + short-read + single-cell)</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">🌙 <b>Sleep biology</b>, circadian rhythms & neuroscience</td>
+  </tr>
+</table>
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,bash,linux,git,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Long--read%20RNA--seq-ONT-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Single--cell%20RNA--seq-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Splicing%20Analysis-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Snakemake-4B8BBE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HPC%2FSLURM-darkgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+</p>
+
+---
+
+## 📚 Selected Publications
+
+| Year | Publication | Journal |
+|:---:|---|:---:|
+| 2026 | Ren D, …, **Li Y**, … Shi J. *Inducible, split base editors for in vivo cancer functional genomics.* [doi](https://doi.org/10.1038/s41587-026-03077-5) | ![Nat Biotechnol](https://img.shields.io/badge/Nature%20Biotechnology-e6194b?style=flat-square) |
+| 2025 | Cuddapah VA, …, **Li Y**, … *Sleep drive, not total sleep amount, increases seizure risk.* [doi](https://doi.org/10.1038/s41467-025-62311-x) | ![Nat Commun](https://img.shields.io/badge/Nature%20Communications-c0392b?style=flat-square) |
+| 2025 | Zhang Y, …, **Li Y**, … Sehgal A. *The microbiome interacts with the circadian clock and dietary composition to regulate metabolite cycling in the Drosophila gut.* [doi](https://doi.org/10.7554/eLife.97130) | ![eLife](https://img.shields.io/badge/eLife-0e7fc0?style=flat-square) |
+| 2025 | Avila A, …, **Li Y**, … *A carnitine transporter at the blood–brain barrier modulates sleep via glial lipid metabolism in Drosophila.* [doi](https://doi.org/10.1073/pnas.2421178122) | ![PNAS](https://img.shields.io/badge/PNAS-1f4e79?style=flat-square) |
+| 2024 | ⭐ **Li Y**, … *Modulation of RNA processing genes during sleep-dependent memory.* [doi](https://doi.org/10.7554/eLife.89023) | ![eLife](https://img.shields.io/badge/eLife-0e7fc0?style=flat-square) |
+| 2024 | Haynes PR, …, **Li Y**, … *A neuron–glia lipid metabolic cycle couples daily sleep to mitochondrial homeostasis.* [doi](https://doi.org/10.1038/s41593-023-01568-1) | ![Nat Neurosci](https://img.shields.io/badge/Nature%20Neuroscience-c0392b?style=flat-square) |
+| 2024 | Schwarz JE, …, **Li Y**, … Sehgal A. *Evidence for a role of human blood-borne factors in mediating age-associated changes in molecular circadian rhythms.* [doi](https://doi.org/10.7554/eLife.88322) | ![eLife](https://img.shields.io/badge/eLife-0e7fc0?style=flat-square) |
+| 2023 | ⭐ **Li Y**, … *Ecdysone acts through cortex glia to regulate sleep in Drosophila.* [doi](https://doi.org/10.7554/eLife.81723) | ![eLife](https://img.shields.io/badge/eLife-0e7fc0?style=flat-square) |
+| 2023 | Zhang Y, …, **Li Y**, … *The microbiome stabilizes circadian rhythms in the gut.* [doi](https://doi.org/10.1073/pnas.2217532120) | ![PNAS](https://img.shields.io/badge/PNAS-1f4e79?style=flat-square) |
+| 2020 | Davla S, …, **Li Y**, … van Meyel DJ. *AANAT1 functions in astrocytes to regulate sleep homeostasis.* [doi](https://doi.org/10.7554/eLife.53994) | ![eLife](https://img.shields.io/badge/eLife-0e7fc0?style=flat-square) |
+
+<sub>⭐ first-author paper</sub>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/yjli2017">YongjunLi</a> · Last updated: 04/10/2026
+  <img src="https://komarev.com/ghpvc/?username=yjli2017&style=for-the-badge&color=2c5364&label=Profile+Views" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/yjli2017">Yongjun Li</a> · Last updated: 10/23/2026
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
