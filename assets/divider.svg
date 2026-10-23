@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0" x2="2400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#011F5B"/>
+      <stop offset="0.25" stop-color="#990000"/>
+      <stop offset="0.5" stop-color="#011F5B"/>
+      <stop offset="0.75" stop-color="#990000"/>
+      <stop offset="1" stop-color="#011F5B"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .flow { animation: flow 6s linear infinite; }
+    @keyframes flow { to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+  <rect class="flow" x="0" y="4" width="2400" height="4" rx="2" fill="url(#g)"/>
+</svg>
